@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+        <!-- Base application theme -->
+        <style name="Theme.Self10_3" parent="Theme.AppCompat.Light.DarkActionBar">
+
+        </style>
+    </resources>
+
